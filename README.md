@@ -28,9 +28,20 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=SharmaVansh1910&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SharmaVansh1910&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<div align="center">
+  
+![snake gif](https://github.com/SharmaVansh1910/SharmaVansh1910/blob/output/github-snake.svg)
+
+</div>
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SharmaVansh1910&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+
+
+
