@@ -20,9 +20,9 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on: **Open Source Projects (Appwrite, GSoC '26 prep)**  
-- 🌱 I’m currently learning: **Cloud, DevOps, Appwrite SDKs**
-- 💬 Ask me about: **MERN Stack, AI APIs, Node.js, MongoDB**
+- 🔭 I’m currently working on: **Open Source Projects**  
+- 🌱 I’m currently learning: **Cloud, DevOps, GenAI**
+- 💬 Ask me about: **MERN Stack, AI APIs, Node.js, MongoDB,Python**
 - 📫 How to reach me: **vansh1910sharma@gmail.com**
 - ⚡ Fun fact: I love speaking at events and solving real-world problems with tech
 
