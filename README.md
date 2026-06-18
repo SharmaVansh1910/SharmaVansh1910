@@ -20,11 +20,11 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on: **Open Source Projects**  
-- 🌱 I’m currently learning: **Cloud, DevOps, GenAI**
-- 💬 Ask me about: **MERN Stack, AI APIs, Node.js, MongoDB,Python**
+- 🔭 I’m currently working on: **AI Agents, RAG Applications, and Multi-Agent Systems**  
+- 🌱 I’m currently learning: **Cloud, DevOps, Agentic AI, and Scalable AI Infrastructure**
+- 💬 Ask me about: **MERN Stack, AI APIs,Python,LangChain, LangGraph, MCP, Gemini**
 - 📫 How to reach me: **vansh1910sharma@gmail.com**
-- ⚡ Fun fact: I love speaking at events and solving real-world problems with tech
+- ⚡ Fun fact: I enjoy transforming complex problems into production-ready AI products that create       real impact.
 
 ---
 
@@ -74,17 +74,17 @@
 ----
 
 ### 🚀 Projects I'm Proud Of
-
-- 🔥 [Donation Platform](https://github.com/SharmaVansh1910/Donation-Platform): Donate books, clothes & more
-- 🤖 [AI Recipe App](https://github.com/SharmaVansh1910/AI-Recipe-App): Smart recipe suggestions using AI
-- 💊 [MedGuide](https://github.com/SharmaVansh1910/MedGuide): Your health companion
-- 📚 [EduMorph](https://github.com/SharmaVansh1910/EduMorph): AI-driven learning platform
+* 🎯 [Career Pilot AI](https://github.com/SharmaVansh1910/career-pilot-ai): AI-powered career assistant that analyzes resumes, matches jobs, identifies skill gaps, and generates personalized career roadmaps using LangGraph, Gemini, and Pydantic.
+* 🤖 [GitHub AI Agent](https://github.com/SharmaVansh1910/github-ai-agent): Intelligent AI agent that interacts with GitHub repositories, analyzes codebases, answers repository-related questions, and automates developer workflows using MCP and Gemini.
+* 🧳 [AI Travel Planner](https://github.com/SharmaVansh1910/ai-travel-planner): Smart travel planning assistant that creates personalized itineraries, destination recommendations, budget insights, and customized travel experiences.
+* 🧠 [AI Portfolio](https://github.com/SharmaVansh1910/ai-portfolio): Interactive AI-powered portfolio that showcases my projects, skills, experience, and achievements through a conversational AI interface.
 
 ---
 
 ### 🏆 My Current Goal
-> 🎯 Preparing for **Google Summer of Code 2026**  
-> 💼 Actively contributing to: **Appwrite Open Source**
+> 🎯 Preparing for **Summer Intern 2027**  
+> 💼 Actively contributing to: **Build production-grade AI Agent Systems**
+> Deepen expertise in **Cloud & DevOps**
 
 ---
 
